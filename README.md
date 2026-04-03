@@ -69,7 +69,7 @@ document.addEventListener('keydown', e => {
 
 ---
 
-##🎯 Key Concepts Practiced
+## 🎯 Key Concepts Practiced
 
 * DOM Selection (querySelector, querySelectorAll)
 * Event Listeners (click, keydown)
@@ -87,7 +87,7 @@ document.addEventListener('keydown', e => {
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Kanhu**
 Frontend Developer 🚀

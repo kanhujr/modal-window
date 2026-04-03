@@ -17,6 +17,7 @@ This project demonstrates DOM manipulation, event handling, and UI state control
 🎯 Centered modal layout
 🌌 Background blur effect
 
+
 Modal windows are widely used to display important content without navigating away from the page, improving UX efficiency.
 
 🛠️ Tech Stack

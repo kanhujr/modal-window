@@ -6,9 +6,6 @@ This project demonstrates DOM manipulation, event handling, and UI state control
 👉 https://kanhujr.github.io/modal-window/
 
 📸 Preview
-<img src="https://kanhujr.github.io/modal-window/" alt="Modal Preview" />
-
-Replace this with a screenshot (recommended):
 <img width="942" height="193" alt="image" src="https://github.com/user-attachments/assets/19f936de-607a-42f1-8069-9527a06fcac7" />
 
 

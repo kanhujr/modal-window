@@ -42,23 +42,23 @@ modal-window/
 
 ## 🧠 Core Logic Breakdown
 
-Open Modal
+### Open Modal
 ```
 modal.classList.remove('hidden');
 overlay.classList.remove('hidden');
 ```
-Close Modal
+### Close Modal
 ```
 modal.classList.add('hidden');
 overlay.classList.add('hidden');
 ```
-Event Binding
+### Event Binding
 ```
 btnOpenModal[i].addEventListener('click', openModal);
 btnCloseModal.addEventListener('click', closeModal);
 overlay.addEventListener('click', closeModal);
 ```
-Escape Key Handling
+### Escape Key Handling
 ```
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
